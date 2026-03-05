@@ -1,0 +1,2 @@
+value1 = How much you want it to shake
+['' = no anim, 0 = sliding anim, >0 = shake]

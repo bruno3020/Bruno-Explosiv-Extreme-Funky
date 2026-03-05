@@ -1,0 +1,11 @@
+val1 = How much it moves / rotates / tweens 
+	 before going the other direction
+	 [value1 = 0 -> doesnt move]
+val2 = How long it will take in seconds 
+	 [normal value 1s, value2 = 0 or 
+	 '' will make the charts completely 
+	 gone]
+
+If you dont want it to spin use
+val1 = 0
+val2 = 1
